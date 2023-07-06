@@ -3,3 +3,6 @@ headers:
   - path: "/*"
     headers:
       Access-Control-Allow-Origin: "*"
+      Access-Control-Allow-Methods: "GET"
+      Access-Control-Max-Age: 1000
+      Access-Control-Allow-Headers: "*"
