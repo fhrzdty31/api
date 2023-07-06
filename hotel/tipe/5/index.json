@@ -1,0 +1,12 @@
+{
+    "message": "Berhasil mengambil data tipe kamar dengan id 5",
+    "data": {
+        "id_tipe_kamar": 5,
+        "nama_tipe_kamar": "Single Room",
+        "harga": 300000,
+        "deskripsi": "Selain standard room, jenis kamar single room merupakan kamar paling umum. Kamar hotel ini menyajikan satu single bed, sofa, dan kamar mandi dengan ukuran yang tidak terlalu besar. Biasanya, jenis kamar ini menjadi favorit backpacker dan pelancong tunggal karena harganya yang murah dan fasilitasnya yang cukup untuk satu orang.",
+        "foto": "image-1678360112617.webp",
+        "createdAt": "2023-03-09T11:08:32.000Z",
+        "updatedAt": "2023-03-12T14:12:47.000Z"
+    }
+}

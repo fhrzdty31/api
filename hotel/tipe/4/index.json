@@ -1,0 +1,12 @@
+{
+    "message": "Berhasil mengambil data tipe kamar dengan id 4",
+    "data": {
+        "id_tipe_kamar": 4,
+        "nama_tipe_kamar": "Twin Room",
+        "harga": 5000000,
+        "deskripsi": "Seperti namanya, kamar twin room menyajikan dua tempat tidur ukuran single yang terpisah. Jenis kamar ini sangat cocok digunakan untuk pasangan, suami isteri, menginap bersama teman, atau keluarga kecil dengan dua anak.",
+        "foto": "image-1678171989525.webp",
+        "createdAt": "2023-03-07T06:53:09.000Z",
+        "updatedAt": "2023-03-07T06:53:09.000Z"
+    }
+}

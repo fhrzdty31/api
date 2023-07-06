@@ -1,0 +1,12 @@
+{
+    "message": "Berhasil mengambil data tipe kamar dengan id 3",
+    "data": {
+        "id_tipe_kamar": 3,
+        "nama_tipe_kamar": "Duluxe Room",
+        "harga": 400000,
+        "deskripsi": "Kamar hotel deluxe room memiliki harga yang lebih tinggi dibandingkan dua jenis kamar sebelumnya. Hal ini tampak dari ukuran kamar yang lebih besar, serta interior kamar yang terkesan lebih mewah. Pengunjung juga bisa memilih kasur yang diinginkan, yaitu double bed atau twin bed.",
+        "foto": "image-1678117367455.webp",
+        "createdAt": "2023-03-06T15:42:47.000Z",
+        "updatedAt": "2023-03-12T14:12:17.000Z"
+    }
+}

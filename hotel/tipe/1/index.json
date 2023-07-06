@@ -1,0 +1,12 @@
+{
+    "message": "Berhasil mengambil data tipe kamar dengan id 1",
+    "data": {
+        "id_tipe_kamar": 1,
+        "nama_tipe_kamar": "Standart Room",
+        "harga": 250000,
+        "deskripsi": "Standard room merupakan tipe kamar hotel yang paling biasa di hotel, fasilitasnya pun terbatas, seperti kasur ukuran king size atau dua queen size.",
+        "foto": "image-1678859935439.webp",
+        "createdAt": "2023-02-26T09:49:19.000Z",
+        "updatedAt": "2023-03-15T05:58:55.000Z"
+    }
+}
