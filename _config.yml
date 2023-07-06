@@ -1,0 +1,4 @@
+headers:
+  - path:/*
+    headers:
+      Access-Control-Allow-Origin: "*"
