@@ -1,3 +1,4 @@
+callbackFunction(
 {
     "message": "Berhasil mengambil semua data",
     "data": [
@@ -57,3 +58,4 @@
         }
     ]
 }
+)
